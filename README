@@ -8,8 +8,8 @@ DESCRIPTION
     This module is a very experimental fork/variant of
     Locale::Maketext::Lexicon::Gettext where messages are fetched by their
     "msgctxt" instead of their "msgid". It is currently mostly developed to
-    help the I18N of OpenFoodFacts <http://openfoodfacts.org/> and
-    OpenBeautyFacts <http://openbeautyfacts.org/>. You probably don't
+    help the I18N of OpenFoodFacts <https://openfoodfacts.org/> and
+    OpenBeautyFacts <https://openbeautyfacts.org/>. You probably don't
     want to use this, unless you really now what your are doing.
 
 
